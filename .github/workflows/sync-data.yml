@@ -8,7 +8,7 @@ on:
 env:
   WEB_APP_URL: "https://script.google.com/macros/s/AKfycbx-63Rf9r8g-i0OnEelVJ6rjAzX8z630S7msg7zgy4lxNZe_4Eh8xjVPHzvqJ2-Mgxo/exec" # Địa chỉ Web App Apps Script của bạn
   SECRET_KEY: "MAT_KHAU_BAO_MAT_CUA_BAN"                     # Trùng với key trong Apps Script
-  SHEET_NAME: "NgheNhan136-A-Chen"                                        # Tên Tab cần lấy dữ liệu
+  SHEET_NAME: "NgheNhan136-A-(Chen)"                                        # Tên Tab cần lấy dữ liệu
   COL_PRODUCT: "B"                                           # Cột tên sản phẩm
   COL_IMAGE: "AT"                                             # Cột link ảnh
   COL_LINK: "AP"                                              # Cột link web 1688
