@@ -1,188 +1,28 @@
 [
   {
     "no": 1,
-    "name": "图片_20260321121009_270_68.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1s4qmFqD_3iOAoEmi03xe69QXNj1TTJKb.jpg",
-    "link": "#",
-    "qty": 80,
-    "price": 32,
-    "change_status": "qty_changed",
-    "change_msg": "数量更改（thay đổi số lượng）: 60 ➔ 80 (+20)"
-  },
-  {
-    "no": 2,
     "name": "图片_20260321120343_68_68.jpg",
     "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1CvaZhXX5L1rORnvs6hVYgu9Yo61Uuhw6.jpg",
     "link": "#",
     "qty": 500,
     "price": 2.8,
-    "change_status": "qty_changed",
-    "change_msg": "数量更改（thay đổi số lượng）: 100 ➔ 500 (+400)"
+    "change_status": "none",
+    "change_msg": ""
   },
   {
-    "no": 3,
-    "name": "图片_20260326222306_1249_68.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/12_4KH5_gklnunZcW1tdXiWuTA_GZdOnX.jpg",
-    "link": "#",
-    "qty": 20,
-    "price": 90,
-    "change_status": "qty_changed",
-    "change_msg": "数量更改（thay đổi số lượng）: 5 ➔ 20 (+15)"
-  },
-  {
-    "no": 4,
-    "name": "图片_20260321121159_344_68.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/11LVWjtq9WJuP7AJHY4LbPQ1p2zqnndRZ.jpg",
-    "link": "#",
-    "qty": 50,
-    "price": 33,
-    "change_status": "qty_changed",
-    "change_msg": "数量更改（thay đổi số lượng）: 30 ➔ 50 (+20)"
-  },
-  {
-    "no": 5,
+    "no": 2,
     "name": "图片_20260321120345_70_68.jpg",
     "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1I4rafYJ9mSw7GHCAG5XqlHP7HXf_-GM4.jpg",
     "link": "#",
     "qty": 500,
     "price": 1.8,
-    "change_status": "qty_changed",
-    "change_msg": "数量更改（thay đổi số lượng）: 200 ➔ 500 (+300)"
-  },
-  {
-    "no": 6,
-    "name": "图片_20260810213418_307_1.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1gLWuPYjXMct3k1s1ssokZOS5kvYkZge6.jpg",
-    "link": "#",
-    "qty": 300,
-    "price": 6,
-    "change_status": "new",
-    "change_msg": "新增产品(Sản phẩm mới thêm)"
-  },
-  {
-    "no": 7,
-    "name": "图片_20260810213413_304_1.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/169r6m6VHYF0TAv1Be2qPOgWNxa9UBbSu.jpg",
-    "link": "#",
-    "qty": 300,
-    "price": 5.5,
-    "change_status": "new",
-    "change_msg": "新增产品(Sản phẩm mới thêm)"
-  },
-  {
-    "no": 8,
-    "name": "图片_20260321121114_323_68.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1syJ5WunATNWozbk1DOSgmc_d3vuwlBVF.jpg",
-    "link": "#",
-    "qty": 30,
-    "price": 35,
     "change_status": "none",
     "change_msg": ""
   },
   {
-    "no": 9,
-    "name": "图片_20260331150314_2023_68.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1rupjFWI-K4YI1NRoE-aLh_lQYpC1MPIO.jpg",
-    "link": "#",
-    "qty": 10,
-    "price": 153,
-    "change_status": "qty_changed",
-    "change_msg": "数量更改（thay đổi số lượng）: 5 ➔ 10 (+5)"
-  },
-  {
-    "no": 10,
-    "name": "图片_20260331150322_2027_68.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1lqzDy3A0OBvbkUKD3I5A2mCHaSoz8e9W.jpg",
-    "link": "#",
-    "qty": 10,
-    "price": 144,
-    "change_status": "qty_changed",
-    "change_msg": "数量更改（thay đổi số lượng）: 2 ➔ 10 (+8)"
-  },
-  {
-    "no": 11,
-    "name": "图片_20260810213406_298_1.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1FetqwF96mowK5lwIoM6RI4LLyGHjvgx3.jpg",
-    "link": "#",
-    "qty": 300,
-    "price": 5.5,
-    "change_status": "new",
-    "change_msg": "新增产品(Sản phẩm mới thêm)"
-  },
-  {
-    "no": 12,
-    "name": "图片_20260331150342_2045_68.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1rPPY8sgWfpmlKVofdTOS-y8zNcb-R9uQ.jpg",
-    "link": "#",
-    "qty": 10,
-    "price": 130.5,
-    "change_status": "none",
-    "change_msg": ""
-  },
-  {
-    "no": 13,
-    "name": "图片_20260331150333_2037_68.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1Y1qba9jmooe2077i2ZfeEUiK5woRVg2Y.jpg",
-    "link": "#",
-    "qty": 10,
-    "price": 130.5,
-    "change_status": "qty_changed",
-    "change_msg": "数量更改（thay đổi số lượng）: 5 ➔ 10 (+5)"
-  },
-  {
-    "no": 14,
-    "name": "图片_20260331150320_2025_68.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1-go9m3kPKUs5AROAA4Nkp7b30duAYlGH.jpg",
-    "link": "#",
-    "qty": 10,
-    "price": 130.5,
-    "change_status": "qty_changed",
-    "change_msg": "数量更改（thay đổi số lượng）: 2 ➔ 10 (+8)"
-  },
-  {
-    "no": 15,
-    "name": "图片_20260810213416_306_1.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1F8ChoIIlc6qBCUpW3Wel-lDyhtmcdHPL.jpg",
-    "link": "#",
-    "qty": 300,
-    "price": 5.5,
-    "change_status": "new",
-    "change_msg": "新增产品(Sản phẩm mới thêm)"
-  },
-  {
-    "no": 16,
-    "name": "图片_20260810213402_295_1.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1Iemn7LIf9DBrH2LO8e_aJSF6ZaWZ1HKQ.jpg",
-    "link": "#",
-    "qty": 300,
-    "price": 5.5,
-    "change_status": "new",
-    "change_msg": "新增产品(Sản phẩm mới thêm)"
-  },
-  {
-    "no": 17,
-    "name": "图片_20260414173556_2255_68.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1-51ZAC0zr-O50NMIf1ytSTUqX4DEAO1v.jpg",
-    "link": "#",
-    "qty": 5,
-    "price": 230,
-    "change_status": "qty_changed",
-    "change_msg": "数量更改（thay đổi số lượng）: 1 ➔ 5 (+4)"
-  },
-  {
-    "no": 18,
-    "name": "图片_20260810213415_305_1.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1to4I3OWefcFgmym5j2DwPtVjkc_xAlXf.jpg",
-    "link": "#",
-    "qty": 300,
-    "price": 5.5,
-    "change_status": "new",
-    "change_msg": "新增产品(Sản phẩm mới thêm)"
-  },
-  {
-    "no": 19,
-    "name": "图片_20260321120318_57_68.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1nQas8c_sGpPLfqsiTz4bU74y-MJqpfYt.jpg",
+    "no": 3,
+    "name": "图片_20260321120320_60_68.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1TJHa9daDxYzawHMR9oyHxOpFgygLLV2j.jpg",
     "link": "#",
     "qty": 300,
     "price": 2.5,
@@ -190,7 +30,7 @@
     "change_msg": ""
   },
   {
-    "no": 20,
+    "no": 4,
     "name": "图片_20260321120323_63_68.jpg",
     "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1muLfBIkreKzmpNCI-dSuT17NHf_pghjy.jpg",
     "link": "#",
@@ -200,377 +40,337 @@
     "change_msg": ""
   },
   {
-    "no": 21,
-    "name": "图片_20260321120320_60_68.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1TJHa9daDxYzawHMR9oyHxOpFgygLLV2j.jpg",
+    "no": 5,
+    "name": "图片_20260321120318_57_68.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1nQas8c_sGpPLfqsiTz4bU74y-MJqpfYt.jpg",
     "link": "#",
     "qty": 300,
     "price": 2.5,
-    "change_status": "qty_changed",
-    "change_msg": "数量更改（thay đổi số lượng）: 200 ➔ 300 (+100)"
+    "change_status": "none",
+    "change_msg": ""
   },
   {
-    "no": 22,
-    "name": "图片_20260703220409_3281_68.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1dAE6o2RRaedmLO95idN1z4IJIg2crHUc.jpg",
+    "no": 6,
+    "name": "图片_20260810213418_307_1.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1gLWuPYjXMct3k1s1ssokZOS5kvYkZge6.jpg",
     "link": "#",
-    "qty": 200,
+    "qty": 300,
     "price": 6,
-    "change_status": "new",
-    "change_msg": "新增产品(Sản phẩm mới thêm)"
+    "change_status": "none",
+    "change_msg": ""
   },
   {
-    "no": 23,
-    "name": "图片_20260810213423_312_1.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1WIKeFwr1rUOEffz2CYbWIgdTySt3vUDX.jpg",
+    "no": 7,
+    "name": "图片_20260810213413_304_1.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/169r6m6VHYF0TAv1Be2qPOgWNxa9UBbSu.jpg",
     "link": "#",
-    "qty": 200,
-    "price": 6,
-    "change_status": "new",
-    "change_msg": "新增产品(Sản phẩm mới thêm)"
-  },
-  {
-    "no": 24,
-    "name": "图片_20260321120853_222_68.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1vxguMJNOVgtYkXlbX3lGHyuqU4h_F0Wd.jpg",
-    "link": "#",
-    "qty": 200,
+    "qty": 300,
     "price": 5.5,
-    "change_status": "qty_changed",
-    "change_msg": "数量更改（thay đổi số lượng）: 50 ➔ 200 (+150)"
+    "change_status": "none",
+    "change_msg": ""
   },
   {
-    "no": 25,
+    "no": 8,
+    "name": "图片_20260810213406_298_1.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1FetqwF96mowK5lwIoM6RI4LLyGHjvgx3.jpg",
+    "link": "#",
+    "qty": 300,
+    "price": 5.5,
+    "change_status": "none",
+    "change_msg": ""
+  },
+  {
+    "no": 9,
+    "name": "图片_20260810213416_306_1.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1F8ChoIIlc6qBCUpW3Wel-lDyhtmcdHPL.jpg",
+    "link": "#",
+    "qty": 300,
+    "price": 5.5,
+    "change_status": "none",
+    "change_msg": ""
+  },
+  {
+    "no": 10,
+    "name": "图片_20260810213402_295_1.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1Iemn7LIf9DBrH2LO8e_aJSF6ZaWZ1HKQ.jpg",
+    "link": "#",
+    "qty": 300,
+    "price": 5.5,
+    "change_status": "none",
+    "change_msg": ""
+  },
+  {
+    "no": 11,
+    "name": "图片_20260810213415_305_1.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1to4I3OWefcFgmym5j2DwPtVjkc_xAlXf.jpg",
+    "link": "#",
+    "qty": 300,
+    "price": 5.5,
+    "change_status": "none",
+    "change_msg": ""
+  },
+  {
+    "no": 12,
     "name": "图片_20260703220408_3280_68.jpg",
     "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1xK_hMtv018tZQbW_UbxB1623ubDAPrND.jpg",
     "link": "#",
     "qty": 200,
     "price": 5.5,
-    "change_status": "new",
-    "change_msg": "新增产品(Sản phẩm mới thêm)"
+    "change_status": "none",
+    "change_msg": ""
   },
   {
-    "no": 26,
+    "no": 13,
+    "name": "图片_20260321120853_222_68.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1vxguMJNOVgtYkXlbX3lGHyuqU4h_F0Wd.jpg",
+    "link": "#",
+    "qty": 200,
+    "price": 5.5,
+    "change_status": "none",
+    "change_msg": ""
+  },
+  {
+    "no": 14,
     "name": "图片_20260703220412_3283_68.jpg",
     "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1sXS1XF7Rc6oRYociHo10sdZo3ytjBy6-.jpg",
     "link": "#",
     "qty": 200,
     "price": 5.5,
-    "change_status": "new",
-    "change_msg": "新增产品(Sản phẩm mới thêm)"
+    "change_status": "none",
+    "change_msg": ""
   },
   {
-    "no": 27,
+    "no": 15,
+    "name": "图片_20260703220409_3281_68.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1dAE6o2RRaedmLO95idN1z4IJIg2crHUc.jpg",
+    "link": "#",
+    "qty": 200,
+    "price": 6,
+    "change_status": "none",
+    "change_msg": ""
+  },
+  {
+    "no": 16,
     "name": "图片_20260703220413_3284_68.jpg",
     "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/10iGlussoVAZouxenSt-hIxz6fAfIZM60.jpg",
     "link": "#",
     "qty": 200,
     "price": 5.5,
-    "change_status": "new",
-    "change_msg": "新增产品(Sản phẩm mới thêm)"
+    "change_status": "none",
+    "change_msg": ""
   },
   {
-    "no": 28,
+    "no": 17,
+    "name": "图片_20260810213423_312_1.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1WIKeFwr1rUOEffz2CYbWIgdTySt3vUDX.jpg",
+    "link": "#",
+    "qty": 200,
+    "price": 6,
+    "change_status": "none",
+    "change_msg": ""
+  },
+  {
+    "no": 18,
     "name": "图片_20260810213411_302_1.jpg",
     "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1YiE7EoixUZl__gU-KPV7JuOTbnXnnQfg.jpg",
     "link": "#",
     "qty": 200,
     "price": 5.5,
-    "change_status": "new",
-    "change_msg": "新增产品(Sản phẩm mới thêm)"
-  },
-  {
-    "no": 29,
-    "name": "图片_20260326202905_1144_68.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1r5g6YY6GINUUlCYFJxBtemW8G6QAMaQK.jpg",
-    "link": "#",
-    "qty": 10,
-    "price": 108,
-    "change_status": "qty_changed",
-    "change_msg": "数量更改（thay đổi số lượng）: 5 ➔ 10 (+5)"
-  },
-  {
-    "no": 30,
-    "name": "图片_20260321121110_321_68.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/16t0tj40NldLXTVBPwLcW9pC79Huuj2Gx.jpg",
-    "link": "#",
-    "qty": 30,
-    "price": 35,
-    "change_status": "qty_changed",
-    "change_msg": "数量更改（thay đổi số lượng）: 10 ➔ 30 (+20)"
-  },
-  {
-    "no": 31,
-    "name": "图片_20260321121202_347_68.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/15RueoD67gNAwMQ2qrxdaZkMxIoG-ujbj.jpg",
-    "link": "#",
-    "qty": 20,
-    "price": 33,
-    "change_status": "new",
-    "change_msg": "新增产品(Sản phẩm mới thêm)"
-  },
-  {
-    "no": 32,
-    "name": "图片_20260418210846_2473_68.png",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1_tPvx4rC8gUe9AFrGKDv_ExQIexwZnTJ.jpg",
-    "link": "#",
-    "qty": 20,
-    "price": 35,
     "change_status": "none",
     "change_msg": ""
   },
   {
-    "no": 33,
-    "name": "图片_20260418210926_2493_68.png",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1ukLech0y_Uwc3d4ZU92Xuy1xokwMBrt_.jpg",
-    "link": "#",
-    "qty": 20,
-    "price": 35,
-    "change_status": "qty_changed",
-    "change_msg": "数量更改（thay đổi số lượng）: 10 ➔ 20 (+10)"
-  },
-  {
-    "no": 34,
-    "name": "图片_20260331150406_2066_68.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1rryIN1D288L4DNTVU26oGVUGg4wqMfST.jpg",
-    "link": "#",
-    "qty": 10,
-    "price": 99,
-    "change_status": "none",
-    "change_msg": ""
-  },
-  {
-    "no": 35,
-    "name": "图片_20260321120245_49_68.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1A2lUEEWOPYwBH-YuTLMDyMCGmQG8PFcm.jpg",
-    "link": "#",
-    "qty": 10,
-    "price": 95,
-    "change_status": "qty_changed",
-    "change_msg": "数量更改（thay đổi số lượng）: 5 ➔ 10 (+5)"
-  },
-  {
-    "no": 36,
+    "no": 19,
     "name": "图片_20260810213420_309_1.jpg",
     "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1jTyZiDP2y-lPwzpgsifRGuZeTBXJo50A.jpg",
     "link": "#",
     "qty": 200,
     "price": 5.5,
-    "change_status": "new",
-    "change_msg": "新增产品(Sản phẩm mới thêm)"
+    "change_status": "none",
+    "change_msg": ""
   },
   {
-    "no": 37,
+    "no": 20,
     "name": "图片_20260810213419_308_1.jpg",
     "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1t24aEtlLbPhk5x_lTrdySuFglSTekTEd.jpg",
     "link": "#",
     "qty": 200,
     "price": 5.5,
-    "change_status": "new",
-    "change_msg": "新增产品(Sản phẩm mới thêm)"
+    "change_status": "none",
+    "change_msg": ""
   },
   {
-    "no": 38,
-    "name": "图片_20260321122522_740_68.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1NI63dRA30wAXPggAb5W3tXSHpbHffx2q.jpg",
-    "link": "#",
-    "qty": 10,
-    "price": 83,
-    "change_status": "qty_changed",
-    "change_msg": "数量更改（thay đổi số lượng）: 5 ➔ 10 (+5)"
-  },
-  {
-    "no": 39,
+    "no": 21,
     "name": "图片_20260810213422_311_1.jpg",
     "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1TW3dM57rML_ZMafp8EyTsqA93xcLTYm2.jpg",
     "link": "#",
     "qty": 200,
     "price": 5.5,
-    "change_status": "new",
-    "change_msg": "新增产品(Sản phẩm mới thêm)"
+    "change_status": "none",
+    "change_msg": ""
   },
   {
-    "no": 40,
+    "no": 22,
     "name": "图片_20260810213408_300_1.jpg",
     "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1RKiC6DIJ5dfXDR0AOgk9RYLWNPwWn-y8.jpg",
     "link": "#",
     "qty": 100,
     "price": 5.5,
-    "change_status": "new",
-    "change_msg": "新增产品(Sản phẩm mới thêm)"
+    "change_status": "none",
+    "change_msg": ""
   },
   {
-    "no": 41,
+    "no": 23,
+    "name": "图片_20260321121009_270_68.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1s4qmFqD_3iOAoEmi03xe69QXNj1TTJKb.jpg",
+    "link": "#",
+    "qty": 80,
+    "price": 32,
+    "change_status": "none",
+    "change_msg": ""
+  },
+  {
+    "no": 24,
+    "name": "图片_20260321121159_344_68.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/11LVWjtq9WJuP7AJHY4LbPQ1p2zqnndRZ.jpg",
+    "link": "#",
+    "qty": 50,
+    "price": 33,
+    "change_status": "none",
+    "change_msg": ""
+  },
+  {
+    "no": 25,
     "name": "图片_20260326222709_1391_68.jpg",
     "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1qVirvL1FhKZ_4ItAaEMbxsGBCYey1OIw.jpg",
     "link": "#",
     "qty": 50,
     "price": 18,
-    "change_status": "qty_changed",
-    "change_msg": "数量更改（thay đổi số lượng）: 20 ➔ 50 (+30)"
+    "change_status": "none",
+    "change_msg": ""
   },
   {
-    "no": 42,
-    "name": "图片_20260418210836_2472_68.png",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/10S-bUkJMeiZ3A6ATjN4bWbJm91wLmU_p.jpg",
-    "link": "#",
-    "qty": 20,
-    "price": 35,
-    "change_status": "new",
-    "change_msg": "新增产品(Sản phẩm mới thêm)"
-  },
-  {
-    "no": 43,
-    "name": "图片_20260710175306_3488_68.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1Pwjv77s3BLHD8VrAgUIJs5FESnIcyR1X.jpg",
-    "link": "#",
-    "qty": 20,
-    "price": 35,
-    "change_status": "new",
-    "change_msg": "新增产品(Sản phẩm mới thêm)"
-  },
-  {
-    "no": 44,
-    "name": "图片_20260414171736_2165_68.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/11plcC5KIOTYmSwzD-CzQLNXJpECf7_be.jpg",
-    "link": "#",
-    "qty": 10,
-    "price": 70,
-    "change_status": "qty_changed",
-    "change_msg": "数量更改（thay đổi số lượng）: 20 ➔ 10 (-10)"
-  },
-  {
-    "no": 45,
-    "name": "图片_20260321121957_594_68.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1q0yguhsl8c0emdZ0I1o6x-5tVRmJ2J_z.jpg",
-    "link": "#",
-    "qty": 10,
-    "price": 70,
-    "change_status": "qty_changed",
-    "change_msg": "数量更改（thay đổi số lượng）: 5 ➔ 10 (+5)"
-  },
-  {
-    "no": 46,
-    "name": "图片_20260710175303_3485_68.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1sCyEJ5ySwxzj-5hMNCEw7QnQ11FijsNR.jpg",
-    "link": "#",
-    "qty": 10,
-    "price": 33,
-    "change_status": "new",
-    "change_msg": "新增产品(Sản phẩm mới thêm)"
-  },
-  {
-    "no": 47,
-    "name": "图片_20260331150353_2055_68.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1fwTv5t5_X7D0s_VF76X_32aBzaYKzJx_.jpg",
-    "link": "#",
-    "qty": 10,
-    "price": 130.5,
-    "change_status": "qty_changed",
-    "change_msg": "数量更改（thay đổi số lượng）: 5 ➔ 10 (+5)"
-  },
-  {
-    "no": 48,
+    "no": 26,
     "name": "图片_20260330190918_2000_68.jpg",
     "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1bokZGiec7b8pDpkAxp_NGLSj6pT9niXp.jpg",
     "link": "#",
     "qty": 50,
     "price": 20,
-    "change_status": "qty_changed",
-    "change_msg": "数量更改（thay đổi số lượng）: 30 ➔ 50 (+20)"
+    "change_status": "none",
+    "change_msg": ""
   },
   {
-    "no": 49,
-    "name": "图片_20260710175243_3469_68.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1OKdRHt0gQV1MrameI1BlzttuXvM0WDzr.jpg",
+    "no": 27,
+    "name": "图片_20260321121114_323_68.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1syJ5WunATNWozbk1DOSgmc_d3vuwlBVF.jpg",
+    "link": "#",
+    "qty": 30,
+    "price": 35,
+    "change_status": "none",
+    "change_msg": ""
+  },
+  {
+    "no": 28,
+    "name": "图片_20260321121110_321_68.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/16t0tj40NldLXTVBPwLcW9pC79Huuj2Gx.jpg",
+    "link": "#",
+    "qty": 30,
+    "price": 35,
+    "change_status": "none",
+    "change_msg": ""
+  },
+  {
+    "no": 29,
+    "name": "图片_20260809222153_261_1.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1zXJwlxsyGVoF5knhs_VjQYbLDv5FxpGN.jpg",
+    "link": "#",
+    "qty": 20,
+    "price": 21,
+    "change_status": "none",
+    "change_msg": ""
+  },
+  {
+    "no": 30,
+    "name": "图片_20260809222129_235_1.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1Yx1xI4Zj2dB6ycG_LeMrtd6joQkehb_O.jpg",
+    "link": "#",
+    "qty": 20,
+    "price": 21,
+    "change_status": "none",
+    "change_msg": ""
+  },
+  {
+    "no": 31,
+    "name": "图片_20260809222156_265_1.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1X3UBT3SO_B5vc0-6mbCBVJJruOyt7bl9.jpg",
+    "link": "#",
+    "qty": 20,
+    "price": 21,
+    "change_status": "none",
+    "change_msg": ""
+  },
+  {
+    "no": 32,
+    "name": "图片_20260321121202_347_68.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/15RueoD67gNAwMQ2qrxdaZkMxIoG-ujbj.jpg",
+    "link": "#",
+    "qty": 20,
+    "price": 33,
+    "change_status": "none",
+    "change_msg": ""
+  },
+  {
+    "no": 33,
+    "name": "图片_20260809222125_230_1.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1WwDTpqCJLkvV0wzUzBWcNJW0ZdsaFurn.jpg",
+    "link": "#",
+    "qty": 20,
+    "price": 21,
+    "change_status": "none",
+    "change_msg": ""
+  },
+  {
+    "no": 34,
+    "name": "图片_20260809222136_244_1.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1vsbCs3pULr1TShVyNehzKEfzIPcMKN10.jpg",
+    "link": "#",
+    "qty": 20,
+    "price": 21,
+    "change_status": "none",
+    "change_msg": ""
+  },
+  {
+    "no": 35,
+    "name": "图片_20260809222151_259_1.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1VM4jagl18V5uLmwXxQ2wlBpQxRKlUDWL.jpg",
+    "link": "#",
+    "qty": 20,
+    "price": 21,
+    "change_status": "none",
+    "change_msg": ""
+  },
+  {
+    "no": 36,
+    "name": "图片_20260418210926_2493_68.png",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1ukLech0y_Uwc3d4ZU92Xuy1xokwMBrt_.jpg",
+    "link": "#",
+    "qty": 20,
+    "price": 35,
+    "change_status": "none",
+    "change_msg": ""
+  },
+  {
+    "no": 37,
+    "name": "图片_20260731154806_3580_68.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1thg2ob4Wk3mNTqtppdq35o-UPxWNDzCl.jpg",
     "link": "#",
     "qty": 20,
     "price": 23,
-    "change_status": "new",
-    "change_msg": "新增产品(Sản phẩm mới thêm)"
+    "change_status": "none",
+    "change_msg": ""
   },
   {
-    "no": 50,
-    "name": "图片_20260710175247_3473_68.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1BSZwB_UFTxHkpCFG3I2OLK6tZxaa74_7.jpg",
-    "link": "#",
-    "qty": 20,
-    "price": 23,
-    "change_status": "new",
-    "change_msg": "新增产品(Sản phẩm mới thêm)"
-  },
-  {
-    "no": 51,
-    "name": "图片_20260710175252_3477_68.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/14ALp3CIuMzC3SYcpMIxpZqTEeTXekfad.jpg",
-    "link": "#",
-    "qty": 20,
-    "price": 23,
-    "change_status": "new",
-    "change_msg": "新增产品(Sản phẩm mới thêm)"
-  },
-  {
-    "no": 52,
-    "name": "图片_20260710175257_3481_68.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1HjYiYp0kMoV5kaDftxNDrrs3LtIo0jS5.jpg",
-    "link": "#",
-    "qty": 20,
-    "price": 23,
-    "change_status": "new",
-    "change_msg": "新增产品(Sản phẩm mới thêm)"
-  },
-  {
-    "no": 53,
-    "name": "图片_20260414171746_2176_68.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/19LXUpt2HMo5o6RCdzl-0KVOE5MROfyqK.jpg",
-    "link": "#",
-    "qty": 10,
-    "price": 90,
-    "change_status": "qty_changed",
-    "change_msg": "数量更改（thay đổi số lượng）: 3 ➔ 10 (+7)"
-  },
-  {
-    "no": 54,
-    "name": "图片_20260330190920_2002_68.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1qFwlZMtISW8KAyrRxYPkuLB8toQ8DG0E.jpg",
-    "link": "#",
-    "qty": 20,
-    "price": 20,
-    "change_status": "new",
-    "change_msg": "新增产品(Sản phẩm mới thêm)"
-  },
-  {
-    "no": 55,
-    "name": "图片_20260321122723_791_68.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/10Og6j-A2TUh2wX9KovPkk2mw4bO2r7fI.jpg",
-    "link": "#",
-    "qty": 10,
-    "price": 30,
-    "change_status": "qty_changed",
-    "change_msg": "数量更改（thay đổi số lượng）: 30 ➔ 10 (-20)"
-  },
-  {
-    "no": 56,
-    "name": "图片_20260321122740_808_68.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1bTYFtVcLfV_qTPBq7GcItMOdZJA_N73f.jpg",
-    "link": "#",
-    "qty": 20,
-    "price": 19,
-    "change_status": "qty_changed",
-    "change_msg": "数量更改（thay đổi số lượng）: 10 ➔ 20 (+10)"
-  },
-  {
-    "no": 57,
-    "name": "图片_20260326223243_1696_68.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1BWOBD1UYHyi3BFGKwdSTDKfFaLRxI0Ng.jpg",
-    "link": "#",
-    "qty": 20,
-    "price": 13,
-    "change_status": "qty_changed",
-    "change_msg": "数量更改（thay đổi số lượng）: 30 ➔ 20 (-10)"
-  },
-  {
-    "no": 58,
+    "no": 38,
     "name": "图片_20260326224023_1876_68.jpg",
     "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1ryTFZhqForURRrbTrWSsJSpVJdWN0cgP.jpg",
     "link": "#",
@@ -580,184 +380,384 @@
     "change_msg": ""
   },
   {
-    "no": 59,
-    "name": "图片_20260731154750_3565_68.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1Hsgq_J4ZOmY5QCODltvT5MHIRbG7sLso.jpg",
-    "link": "#",
-    "qty": 20,
-    "price": 23,
-    "change_status": "new",
-    "change_msg": "新增产品(Sản phẩm mới thêm)"
-  },
-  {
-    "no": 60,
-    "name": "图片_20260731154755_3570_68.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1bbDdXd9NZzkHVyRcDgF4tA8RtcMxZa3l.jpg",
-    "link": "#",
-    "qty": 20,
-    "price": 23,
-    "change_status": "new",
-    "change_msg": "新增产品(Sản phẩm mới thêm)"
-  },
-  {
-    "no": 61,
+    "no": 39,
     "name": "图片_20260731154800_3575_68.jpg",
     "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1QTXUGRY8RR-hg-a3jz_MXQxFuR6HBV21.jpg",
     "link": "#",
     "qty": 20,
     "price": 23,
-    "change_status": "new",
-    "change_msg": "新增产品(Sản phẩm mới thêm)"
+    "change_status": "none",
+    "change_msg": ""
   },
   {
-    "no": 62,
-    "name": "图片_20260731154806_3580_68.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1thg2ob4Wk3mNTqtppdq35o-UPxWNDzCl.jpg",
+    "no": 40,
+    "name": "图片_20260330190920_2002_68.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1qFwlZMtISW8KAyrRxYPkuLB8toQ8DG0E.jpg",
+    "link": "#",
+    "qty": 20,
+    "price": 20,
+    "change_status": "none",
+    "change_msg": ""
+  },
+  {
+    "no": 41,
+    "name": "图片_20260710175306_3488_68.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1Pwjv77s3BLHD8VrAgUIJs5FESnIcyR1X.jpg",
+    "link": "#",
+    "qty": 20,
+    "price": 35,
+    "change_status": "none",
+    "change_msg": ""
+  },
+  {
+    "no": 42,
+    "name": "图片_20260710175243_3469_68.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1OKdRHt0gQV1MrameI1BlzttuXvM0WDzr.jpg",
     "link": "#",
     "qty": 20,
     "price": 23,
-    "change_status": "new",
-    "change_msg": "新增产品(Sản phẩm mới thêm)"
+    "change_status": "none",
+    "change_msg": ""
   },
   {
-    "no": 63,
-    "name": "图片_20260731154814_3589_68.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1aWsQpHBboSdCoxbFCAvi3u69ICw0uP9D.jpg",
+    "no": 43,
+    "name": "图片_20260321122740_808_68.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1bTYFtVcLfV_qTPBq7GcItMOdZJA_N73f.jpg",
     "link": "#",
     "qty": 20,
-    "price": 23,
-    "change_status": "new",
-    "change_msg": "新增产品(Sản phẩm mới thêm)"
+    "price": 19,
+    "change_status": "none",
+    "change_msg": ""
   },
   {
-    "no": 64,
-    "name": "图片_20260809222149_257_1.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1hyk_ZA-2vDbtCGOo3aKIEzycX_eYdXoy.jpg",
-    "link": "#",
-    "qty": 20,
-    "price": 23,
-    "change_status": "new",
-    "change_msg": "新增产品(Sản phẩm mới thêm)"
-  },
-  {
-    "no": 65,
-    "name": "图片_20260809222133_240_1.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1AGesG5IqolSXMFtx4S-oBFk7WDtVErBY.jpg",
-    "link": "#",
-    "qty": 20,
-    "price": 21,
-    "change_status": "new",
-    "change_msg": "新增产品(Sản phẩm mới thêm)"
-  },
-  {
-    "no": 66,
+    "no": 44,
     "name": "图片_20260809222126_232_1.jpg",
     "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1MlmaXPzNBn6AbiuXVEwiAKRWyb2rqX3H.jpg",
     "link": "#",
     "qty": 20,
     "price": 21,
-    "change_status": "new",
-    "change_msg": "新增产品(Sản phẩm mới thêm)"
+    "change_status": "none",
+    "change_msg": ""
   },
   {
-    "no": 67,
-    "name": "图片_20260809222125_230_1.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1WwDTpqCJLkvV0wzUzBWcNJW0ZdsaFurn.jpg",
+    "no": 45,
+    "name": "图片_20260809222149_257_1.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1hyk_ZA-2vDbtCGOo3aKIEzycX_eYdXoy.jpg",
     "link": "#",
     "qty": 20,
-    "price": 21,
-    "change_status": "new",
-    "change_msg": "新增产品(Sản phẩm mới thêm)"
+    "price": 23,
+    "change_status": "none",
+    "change_msg": ""
   },
   {
-    "no": 68,
-    "name": "图片_20260809222129_235_1.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1Yx1xI4Zj2dB6ycG_LeMrtd6joQkehb_O.jpg",
+    "no": 46,
+    "name": "图片_20260731154750_3565_68.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1Hsgq_J4ZOmY5QCODltvT5MHIRbG7sLso.jpg",
     "link": "#",
     "qty": 20,
-    "price": 21,
-    "change_status": "new",
-    "change_msg": "新增产品(Sản phẩm mới thêm)"
+    "price": 23,
+    "change_status": "none",
+    "change_msg": ""
   },
   {
-    "no": 69,
-    "name": "图片_20260809222151_259_1.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1VM4jagl18V5uLmwXxQ2wlBpQxRKlUDWL.jpg",
+    "no": 47,
+    "name": "图片_20260710175257_3481_68.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1HjYiYp0kMoV5kaDftxNDrrs3LtIo0jS5.jpg",
     "link": "#",
     "qty": 20,
-    "price": 21,
-    "change_status": "new",
-    "change_msg": "新增产品(Sản phẩm mới thêm)"
+    "price": 23,
+    "change_status": "none",
+    "change_msg": ""
   },
   {
-    "no": 70,
+    "no": 48,
     "name": "图片_20260809222141_248_1.jpg",
     "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1h1ycHVe_RypUyUkTvyeVBRRVIi4rfu9J.jpg",
     "link": "#",
     "qty": 20,
     "price": 21,
-    "change_status": "new",
-    "change_msg": "新增产品(Sản phẩm mới thêm)"
+    "change_status": "none",
+    "change_msg": ""
   },
   {
-    "no": 71,
-    "name": "图片_20260809222136_244_1.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1vsbCs3pULr1TShVyNehzKEfzIPcMKN10.jpg",
-    "link": "#",
-    "qty": 20,
-    "price": 21,
-    "change_status": "new",
-    "change_msg": "新增产品(Sản phẩm mới thêm)"
-  },
-  {
-    "no": 72,
-    "name": "图片_20260809222156_265_1.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1X3UBT3SO_B5vc0-6mbCBVJJruOyt7bl9.jpg",
-    "link": "#",
-    "qty": 20,
-    "price": 21,
-    "change_status": "new",
-    "change_msg": "新增产品(Sản phẩm mới thêm)"
-  },
-  {
-    "no": 73,
-    "name": "图片_20260809222201_271_1.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1bxRg4rDinWS0JvxnZ47CdL_VntN2e2oX.jpg",
-    "link": "#",
-    "qty": 20,
-    "price": 21,
-    "change_status": "new",
-    "change_msg": "新增产品(Sản phẩm mới thêm)"
-  },
-  {
-    "no": 74,
-    "name": "图片_20260809222153_261_1.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1zXJwlxsyGVoF5knhs_VjQYbLDv5FxpGN.jpg",
-    "link": "#",
-    "qty": 20,
-    "price": 21,
-    "change_status": "new",
-    "change_msg": "新增产品(Sản phẩm mới thêm)"
-  },
-  {
-    "no": 75,
-    "name": "图片_20260321122552_755_68.jpg",
-    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1Lh9OrXtiedsf3PqQ3i4GwgidYwCXCR9T.jpg",
-    "link": "#",
-    "qty": 20,
-    "price": 20,
-    "change_status": "qty_changed",
-    "change_msg": "数量更改（thay đổi số lượng）: 30 ➔ 20 (-10)"
-  },
-  {
-    "no": 76,
+    "no": 49,
     "name": "图片_20260321122927_866_68.jpg",
     "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1tySHm-7QMyCqZAP326Fr6oebG1gw71XC.jpg",
     "link": "#",
     "qty": 20,
     "price": 20,
-    "change_status": "qty_changed",
-    "change_msg": "数量更改（thay đổi số lượng）: 10 ➔ 20 (+10)"
+    "change_status": "none",
+    "change_msg": ""
+  },
+  {
+    "no": 50,
+    "name": "图片_20260809222201_271_1.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1bxRg4rDinWS0JvxnZ47CdL_VntN2e2oX.jpg",
+    "link": "#",
+    "qty": 20,
+    "price": 21,
+    "change_status": "none",
+    "change_msg": ""
+  },
+  {
+    "no": 51,
+    "name": "图片_20260326223243_1696_68.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1BWOBD1UYHyi3BFGKwdSTDKfFaLRxI0Ng.jpg",
+    "link": "#",
+    "qty": 20,
+    "price": 13,
+    "change_status": "none",
+    "change_msg": ""
+  },
+  {
+    "no": 52,
+    "name": "图片_20260710175247_3473_68.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1BSZwB_UFTxHkpCFG3I2OLK6tZxaa74_7.jpg",
+    "link": "#",
+    "qty": 20,
+    "price": 23,
+    "change_status": "none",
+    "change_msg": ""
+  },
+  {
+    "no": 53,
+    "name": "图片_20260731154755_3570_68.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1bbDdXd9NZzkHVyRcDgF4tA8RtcMxZa3l.jpg",
+    "link": "#",
+    "qty": 20,
+    "price": 23,
+    "change_status": "none",
+    "change_msg": ""
+  },
+  {
+    "no": 54,
+    "name": "图片_20260731154814_3589_68.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1aWsQpHBboSdCoxbFCAvi3u69ICw0uP9D.jpg",
+    "link": "#",
+    "qty": 20,
+    "price": 23,
+    "change_status": "none",
+    "change_msg": ""
+  },
+  {
+    "no": 55,
+    "name": "图片_20260809222133_240_1.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1AGesG5IqolSXMFtx4S-oBFk7WDtVErBY.jpg",
+    "link": "#",
+    "qty": 20,
+    "price": 21,
+    "change_status": "none",
+    "change_msg": ""
+  },
+  {
+    "no": 56,
+    "name": "图片_20260321122552_755_68.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1Lh9OrXtiedsf3PqQ3i4GwgidYwCXCR9T.jpg",
+    "link": "#",
+    "qty": 20,
+    "price": 20,
+    "change_status": "none",
+    "change_msg": ""
+  },
+  {
+    "no": 57,
+    "name": "图片_20260710175252_3477_68.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/14ALp3CIuMzC3SYcpMIxpZqTEeTXekfad.jpg",
+    "link": "#",
+    "qty": 20,
+    "price": 23,
+    "change_status": "none",
+    "change_msg": ""
+  },
+  {
+    "no": 58,
+    "name": "图片_20260326222306_1249_68.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/12_4KH5_gklnunZcW1tdXiWuTA_GZdOnX.jpg",
+    "link": "#",
+    "qty": 20,
+    "price": 90,
+    "change_status": "none",
+    "change_msg": ""
+  },
+  {
+    "no": 59,
+    "name": "图片_20260418210836_2472_68.png",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/10S-bUkJMeiZ3A6ATjN4bWbJm91wLmU_p.jpg",
+    "link": "#",
+    "qty": 20,
+    "price": 35,
+    "change_status": "none",
+    "change_msg": ""
+  },
+  {
+    "no": 60,
+    "name": "图片_20260418210846_2473_68.png",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1_tPvx4rC8gUe9AFrGKDv_ExQIexwZnTJ.jpg",
+    "link": "#",
+    "qty": 20,
+    "price": 35,
+    "change_status": "none",
+    "change_msg": ""
+  },
+  {
+    "no": 61,
+    "name": "图片_20260331150333_2037_68.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1Y1qba9jmooe2077i2ZfeEUiK5woRVg2Y.jpg",
+    "link": "#",
+    "qty": 10,
+    "price": 130.5,
+    "change_status": "none",
+    "change_msg": ""
+  },
+  {
+    "no": 62,
+    "name": "图片_20260710175303_3485_68.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1sCyEJ5ySwxzj-5hMNCEw7QnQ11FijsNR.jpg",
+    "link": "#",
+    "qty": 10,
+    "price": 33,
+    "change_status": "none",
+    "change_msg": ""
+  },
+  {
+    "no": 63,
+    "name": "图片_20260331150314_2023_68.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1rupjFWI-K4YI1NRoE-aLh_lQYpC1MPIO.jpg",
+    "link": "#",
+    "qty": 10,
+    "price": 153,
+    "change_status": "none",
+    "change_msg": ""
+  },
+  {
+    "no": 64,
+    "name": "图片_20260331150406_2066_68.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1rryIN1D288L4DNTVU26oGVUGg4wqMfST.jpg",
+    "link": "#",
+    "qty": 10,
+    "price": 99,
+    "change_status": "none",
+    "change_msg": ""
+  },
+  {
+    "no": 65,
+    "name": "图片_20260331150342_2045_68.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1rPPY8sgWfpmlKVofdTOS-y8zNcb-R9uQ.jpg",
+    "link": "#",
+    "qty": 10,
+    "price": 130.5,
+    "change_status": "none",
+    "change_msg": ""
+  },
+  {
+    "no": 66,
+    "name": "图片_20260321121957_594_68.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1q0yguhsl8c0emdZ0I1o6x-5tVRmJ2J_z.jpg",
+    "link": "#",
+    "qty": 10,
+    "price": 70,
+    "change_status": "none",
+    "change_msg": ""
+  },
+  {
+    "no": 67,
+    "name": "图片_20260321122723_791_68.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/10Og6j-A2TUh2wX9KovPkk2mw4bO2r7fI.jpg",
+    "link": "#",
+    "qty": 10,
+    "price": 30,
+    "change_status": "none",
+    "change_msg": ""
+  },
+  {
+    "no": 68,
+    "name": "图片_20260326202905_1144_68.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1r5g6YY6GINUUlCYFJxBtemW8G6QAMaQK.jpg",
+    "link": "#",
+    "qty": 10,
+    "price": 108,
+    "change_status": "none",
+    "change_msg": ""
+  },
+  {
+    "no": 69,
+    "name": "图片_20260321120245_49_68.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1A2lUEEWOPYwBH-YuTLMDyMCGmQG8PFcm.jpg",
+    "link": "#",
+    "qty": 10,
+    "price": 95,
+    "change_status": "none",
+    "change_msg": ""
+  },
+  {
+    "no": 70,
+    "name": "图片_20260331150322_2027_68.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1lqzDy3A0OBvbkUKD3I5A2mCHaSoz8e9W.jpg",
+    "link": "#",
+    "qty": 10,
+    "price": 144,
+    "change_status": "none",
+    "change_msg": ""
+  },
+  {
+    "no": 71,
+    "name": "图片_20260331150353_2055_68.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1fwTv5t5_X7D0s_VF76X_32aBzaYKzJx_.jpg",
+    "link": "#",
+    "qty": 10,
+    "price": 130.5,
+    "change_status": "none",
+    "change_msg": ""
+  },
+  {
+    "no": 72,
+    "name": "图片_20260321122522_740_68.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1NI63dRA30wAXPggAb5W3tXSHpbHffx2q.jpg",
+    "link": "#",
+    "qty": 10,
+    "price": 83,
+    "change_status": "none",
+    "change_msg": ""
+  },
+  {
+    "no": 73,
+    "name": "图片_20260414171746_2176_68.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/19LXUpt2HMo5o6RCdzl-0KVOE5MROfyqK.jpg",
+    "link": "#",
+    "qty": 10,
+    "price": 90,
+    "change_status": "none",
+    "change_msg": ""
+  },
+  {
+    "no": 74,
+    "name": "图片_20260414171736_2165_68.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/11plcC5KIOTYmSwzD-CzQLNXJpECf7_be.jpg",
+    "link": "#",
+    "qty": 10,
+    "price": 70,
+    "change_status": "none",
+    "change_msg": ""
+  },
+  {
+    "no": 75,
+    "name": "图片_20260331150320_2025_68.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1-go9m3kPKUs5AROAA4Nkp7b30duAYlGH.jpg",
+    "link": "#",
+    "qty": 10,
+    "price": 130.5,
+    "change_status": "none",
+    "change_msg": ""
+  },
+  {
+    "no": 76,
+    "name": "图片_20260414173556_2255_68.jpg",
+    "image": "https://cdn.jsdmirror.com/gh/xideyuenanyu/YuGouMingDan-ShiYan/1-51ZAC0zr-O50NMIf1ytSTUqX4DEAO1v.jpg",
+    "link": "#",
+    "qty": 5,
+    "price": 230,
+    "change_status": "none",
+    "change_msg": ""
   },
   {
     "no": 77,
